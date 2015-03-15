@@ -7,6 +7,7 @@ import android.os.Handler;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Chronometer;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -245,7 +246,8 @@ public class MainActivity extends Activity {
         Log.d(TAG, "onCreate(Bundle) called");
         setContentView(com.example.Alias.R.layout.main);
         teamChoice=getIntent().getIntExtra(TEAM_CHOICE, teamChoice);
-
+        final Chronometer timer=(Chronometer)findViewById(R.id.chronometer);
+        timer.start();
             mQuestionTextView = (TextView) findViewById(com.example.Alias.R.id.question_text_view);
 
             mTrueButton = (Button) findViewById(com.example.Alias.R.id.true_button);
