@@ -27,13 +27,7 @@
     <list default="true" id="bdbcbe7f-d748-48ec-b870-9f29f2ac5d14" name="Default" comment="dev">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/Alias.apk" afterPath="$PROJECT_DIR$/out/production/Alias/Alias.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/Alias.unaligned.apk" afterPath="$PROJECT_DIR$/out/production/Alias/Alias.unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$1.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$2.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$3.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/Alias/MainActivity.java" afterPath="$PROJECT_DIR$/src/com/example/Alias/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-land/main.xml" afterPath="$PROJECT_DIR$/res/layout-land/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Alias.iws" />
@@ -169,10 +163,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.06901218" vertical-offset="0" max-vertical-offset="739">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/Alias/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55209744" vertical-offset="0" max-vertical-offset="1496">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
               <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -203,7 +207,6 @@
         <option value="$PROJECT_DIR$/res/layout-land/intermediate_result.xml" />
         <option value="$PROJECT_DIR$/res/layout/menu.xml" />
         <option value="$PROJECT_DIR$/src/com/example/Alias/About.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/example/Alias/IntermediateMenu.java" />
         <option value="$PROJECT_DIR$/res/layout/teams_count.xml" />
         <option value="$PROJECT_DIR$/res/layout-land/teams_count.xml" />
@@ -214,6 +217,7 @@
         <option value="$PROJECT_DIR$/src/com/example/Alias/MainActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/res/layout-land/main.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -721,7 +725,7 @@
       <workItem from="1425686769096" duration="18000" />
       <workItem from="1426436629283" duration="354000" />
       <workItem from="1426437179376" duration="79000" />
-      <workItem from="1426437268833" duration="2384000" />
+      <workItem from="1426437268833" duration="3002000" />
     </task>
     <task id="LOCAL-00001" summary="dev">
       <created>1426438674208</created>
@@ -733,7 +737,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87663000" />
+    <option name="totallyTimeSpent" value="88281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -1108,14 +1112,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59810555" vertical-offset="0" max-vertical-offset="739">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3995">
@@ -1223,13 +1219,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/Alias/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55209744" vertical-offset="0" max-vertical-offset="1496">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
           <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#727#954#0" expanded="true" />
             <element signature="e#953#954#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06901218" vertical-offset="0" max-vertical-offset="739">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
