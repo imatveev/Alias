@@ -10,7 +10,10 @@
     <Chronometer
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/chronometer" android:layout_gravity="center_horizontal" android:layout_weight="0.09"/>
+            android:id="@+id/chronometer"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_weight="0.28"
+            android:textSize="22sp"/>
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -29,7 +32,7 @@
         <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="18sp"
+                android:textSize="22sp"
                 android:textColor="#FFFFFF"
                 android:background="#000000"
                 android:text="@string/false_button"
@@ -39,7 +42,7 @@
         <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="18sp"
+                android:textSize="22sp"
                 android:textColor="#FFFFFF"
                 android:background="#000000"
                 android:text="@string/true_button"

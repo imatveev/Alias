@@ -247,6 +247,7 @@ public class MainActivity extends Activity {
         setContentView(com.example.Alias.R.layout.main);
         teamChoice=getIntent().getIntExtra(TEAM_CHOICE, teamChoice);
         final Chronometer timer=(Chronometer)findViewById(R.id.chronometer);
+        //timer.setFormat("SS");
         timer.start();
             mQuestionTextView = (TextView) findViewById(com.example.Alias.R.id.question_text_view);
 

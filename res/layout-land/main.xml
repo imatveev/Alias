@@ -14,7 +14,7 @@
             android:textSize="26sp"
             android:textColor="#FFFFFF"
             android:background="#000000"
-            android:layout_gravity="center_horizontal"
+            android:layout_gravity="center_horizontal|center"
             android:singleLine="false"/>
     <Button
             android:layout_width="wrap_content"
@@ -41,7 +41,9 @@
     <Chronometer
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/chronometer" android:layout_gravity="center"/>
+            android:id="@+id/chronometer"
+            android:layout_gravity="center_horizontal|top"
+            android:textSize="22sp"/>
 
 </FrameLayout>
 
