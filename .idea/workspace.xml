@@ -25,30 +25,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdbcbe7f-d748-48ec-b870-9f29f2ac5d14" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/About.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/About.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/Alias.apk" afterPath="$PROJECT_DIR$/out/production/Alias/Alias.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/Alias.unaligned.apk" afterPath="$PROJECT_DIR$/out/production/Alias/Alias.unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/IntermediateMenu$1.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/IntermediateMenu$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/IntermediateMenu.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/IntermediateMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$1.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$2.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$3.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/Menu$1.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/Menu$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/Menu$2.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/Menu$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/Menu$3.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/Menu$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/Menu$4.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/Menu$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/Menu.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/Menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/R$id.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/R$string.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/R.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/TeamsMenu.class" afterPath="$PROJECT_DIR$/out/production/Alias/com/example/Alias/TeamsMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/Alias/MainActivity.java" afterPath="$PROJECT_DIR$/src/com/example/Alias/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/Alias/Menu.java" afterPath="$PROJECT_DIR$/src/com/example/Alias/Menu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/menu.xml" afterPath="$PROJECT_DIR$/res/layout/menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/teams_count.xml" afterPath="$PROJECT_DIR$/res/layout/teams_count.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Alias.iws" />
@@ -934,7 +910,7 @@
       <workItem from="1426437179376" duration="79000" />
       <workItem from="1426437268833" duration="9644000" />
       <workItem from="1426524432205" duration="50000" />
-      <workItem from="1426537493762" duration="10153000" />
+      <workItem from="1426537493762" duration="10191000" />
     </task>
     <task id="LOCAL-00001" summary="dev">
       <created>1426438674208</created>
@@ -954,11 +930,17 @@
       <option name="project" value="LOCAL" />
       <updated>1426455294572</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dev">
+      <created>1426549027872</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1426549027872</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105126000" />
+    <option name="totallyTimeSpent" value="105164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />

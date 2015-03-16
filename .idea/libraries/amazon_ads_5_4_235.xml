@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="amazon-ads-5.4.235">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Apps-SDK/Android/Ads/lib/amazon-ads-5.4.235.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
