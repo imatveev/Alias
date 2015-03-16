@@ -2,6 +2,7 @@ package com.example.Alias;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.Handler;
 import android.util.Log;
@@ -248,6 +249,7 @@ public class MainActivity extends Activity {
         teamChoice=getIntent().getIntExtra(TEAM_CHOICE, teamChoice);
         final Chronometer timer=(Chronometer)findViewById(R.id.chronometer);
 
+
         timer.start();
             mQuestionTextView = (TextView) findViewById(com.example.Alias.R.id.question_text_view);
 
@@ -325,10 +327,17 @@ public class MainActivity extends Activity {
         getDelay.run();
         command++;
     }
+    public void playAllert(){
+        MediaPlayer mediaPlayer=MediaPlayer.create(this , R.raw.allert);
+        mediaPlayer.start();
+    }
     Runnable getDelay = new Runnable() {
         @Override
         public void run() {
             count++;
+            if(count==55){
+                playAllert();
+            }
             if(count==limit) {
                 Intent intent = new Intent(MainActivity.this, IntermediateMenu.class);
                 intent.putExtra(A_POINTS, aPoints);

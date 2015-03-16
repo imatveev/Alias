@@ -23,4 +23,5 @@
         <activity android:name=".About"
                   android:label="@string/app_name"/>
     </application>
+    
 </manifest>

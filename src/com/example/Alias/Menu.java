@@ -9,6 +9,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
+
 public class Menu extends Activity {
     private static final String TAG="Menu";
     private Button mMenuStartButton;
@@ -19,7 +20,6 @@ public class Menu extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.menu);
-
 
         mMenuStartButton = (Button) findViewById(R.id.menu_start);
         mMenuStartButton.setOnClickListener(new View.OnClickListener() {
